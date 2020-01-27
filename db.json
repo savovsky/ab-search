@@ -1,0 +1,52 @@
+{
+    "contacts": [
+        {
+            "id": "11",
+            "firstName": "Tom",
+            "lastName": "Jones",
+            "nickname": "Tom",
+            "email": "tom_jones@abc.com",
+            "address": {
+                "address1": "1234 Sunset Blvd",
+                "address2": "Apt 100",
+                "city": "Los Angeles",
+                "state": "CA",
+                "region": "Hollywood",
+                "postalCode": "98765",
+                "country": "United States"
+            }
+        },
+        {
+            "id": "12",
+            "firstName": "Tom",
+            "lastName": "Cruise",
+            "nickname": null,
+            "email": "tom.cruise@qwerty.com",
+            "address": {
+                "address1": "123 5th Ave",
+                "address2": "Unit 45",
+                "city": "New York",
+                "state": "NY",
+                "region": "Hudson Valley",
+                "postalCode": "54321",
+                "country": "USA"
+            }
+        },
+        {
+            "id": "10",
+            "firstName": "Tom",
+            "lastName": "Hanks",
+            "nickname": null,
+            "email": "tom-hanks@xyz.com",
+            "address": {
+                "address1": "123 5th Ave",
+                "address2": "Unit 45",
+                "city": "New York",
+                "state": "NY",
+                "region": "Hudson Valley",
+                "postalCode": "54321",
+                "country": "USA"
+            }
+        }
+    ]
+}
